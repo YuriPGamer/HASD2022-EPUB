@@ -1,4 +1,4 @@
-# Hinário Adventista 2022 
+# Hinário Adventista 2022 - EPUB
 
 Adaptação não oficial dos 600 hinos contidos no Hinário Adventista (Edição 2022) para Edições Digitais.
 
