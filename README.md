@@ -7,3 +7,10 @@ Para outras finalidades deve-se recorrer aos produtos oficiais da Igreja.
 
 O uso irresponsável do arquivo é de inteira responsabilidade de quem o possui.
 
+
+## Atenção
+O Projeto ainda está em andamento
+
+Para reportar qualquer erro nas letras, acesse o link: (bit.ly/3Sgq8pm)
+
+Para verificar a existência de novas versões, visite: (bit.ly/3C5mOYw)
