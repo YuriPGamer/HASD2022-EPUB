@@ -14,3 +14,11 @@ O Projeto ainda está em andamento
 Para reportar qualquer erro nas letras, acesse o link: [bit.ly/3Sgq8pm](https://bit.ly/3Sgq8pm);
 
 Para verificar a existência de novas versões, visite: [bit.ly/3C5mOYw](https://bit.ly/3C5mOYw);
+
+## Dicas
+
+**Leitor recomendado: [Lithium](https://play.google.com/store/apps/details?id=com.faultexception.reader)**
+
+Leitores compatíveis: Google Play Livros, Reasily, Lithium, ...
+
+>O arquivo foi projetado e testado para funcionar em dispositivos Android, por isso pode não ser exibido corretamente em outras plataformas ou leitores.
