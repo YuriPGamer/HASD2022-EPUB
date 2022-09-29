@@ -1,0 +1,111 @@
+/*Fontes Importadas*/
+
+@font-face {
+	font-family: "Poppins Normal";
+	font-weight: normal;
+	font-style: normal;
+	src: url(../Fonts/Poppins-Regular.ttf);
+}
+
+@font-face {
+	font-family: "Poppins Medium";
+	font-weight: normal;
+	font-style: normal;
+	src: url(../Fonts/Poppins-Medium.ttf);
+}
+
+@font-face {
+	font-family: "Poppins SemiBold";
+	font-weight: normal;
+	font-style: normal;
+	src: url(../Fonts/Poppins-SemiBold.ttf);
+}
+
+@font-face {
+	font-family: "Poppins Bold";
+	font-weight: normal;
+	font-style: normal;
+	src: url(../Fonts/Poppins-Bold.ttf);
+}
+
+a {
+	text-decoration:none;
+}
+
+/*Cabeçalhos*/
+
+h1.titulo {
+	text-align: center;
+	font-family: "Poppins Bold";
+	font-size: 50px;
+	margin-top: 20px;
+	margin-bottom: 60px;
+}
+
+h2.numero_hino {
+	text-align: center;
+	font-family: "Poppins Bold";
+	font-size: 30px;
+	margin-top: 20px;
+}
+
+h3.titulo_hino {
+	text-align: center;
+	font-family: "Poppins SemiBold";
+	font-size: 30px;
+	margin-top: 20px;
+	margin-bottom: 60px;
+}
+
+/*Parágrafos*/
+
+p.botoes {
+	text-align: center;
+}
+
+p.botoesindice {
+	border-radius: 25px;
+	padding: 0.5em;
+	background-color: #f0f0f0;
+	page-break-inside: avoid;
+	text-align: center;
+  	font-weight: bold;
+}
+
+p.estrofe {
+	font-family: "Poppins Medium";
+	font-size: 20px;
+}
+
+p.atencao-titulo {
+	font-family: "Poppins SemiBold";
+	text-align: center;
+	font-size: 25px;
+}
+
+p.atencao {
+	font-family: "Poppins Normal";
+	font-size: 16px;
+}
+
+p.andamento {
+	font-family: "Poppins SemiBold";
+	font-size: 16px;
+	text-align: center;
+}
+
+/*Links*/
+
+a.botoes {
+	font-size: 30px;
+	font-family: "Poppins Bold";
+	text-decoration: none;
+	padding: 8px;
+}
+
+a.botoesindice {
+	font-size: 30px;
+	font-family: "Poppins Bold";
+	text-decoration: none;
+	background-color: #f0f0f0;
+}
