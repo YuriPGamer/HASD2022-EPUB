@@ -28,10 +28,6 @@
 	src: url(../Fonts/Poppins-Bold.ttf);
 }
 
-a {
-	text-decoration:none;
-}
-
 /*Cabeçalhos*/
 
 h1.titulo {
@@ -95,6 +91,10 @@ p.andamento {
 }
 
 /*Links*/
+
+a {
+	text-decoration:none;
+}
 
 a.botoes {
 	font-size: 30px;
