@@ -1,13 +1,6 @@
 /*Fontes Importadas*/
 
 @font-face {
-	font-family: "Poppins Normal";
-	font-weight: normal;
-	font-style: normal;
-	src: url(../Fonts/Poppins-Regular.ttf);
-}
-
-@font-face {
 	font-family: "Poppins Medium";
 	font-weight: normal;
 	font-style: normal;
@@ -47,7 +40,7 @@ h2.numero_hino {
 
 h3.titulo_hino {
 	text-align: center;
-	font-family: "Poppins SemiBold";
+	font-family: "Poppins Bold";
 	font-size: 30px;
 	margin-top: 20px;
 	margin-bottom: 60px;
@@ -69,25 +62,42 @@ p.botoesindice {
 }
 
 p.estrofe {
-	font-family: "Poppins Medium";
+	font-family: "Poppins SemiBold";
 	font-size: 20px;
+	margin-bottom: 30px;
 }
 
 p.atencao-titulo {
-	font-family: "Poppins SemiBold";
+	font-family: "Poppins Bold";
 	text-align: center;
 	font-size: 25px;
 }
 
 p.atencao {
-	font-family: "Poppins Normal";
+	font-family: "Poppins SemiBold";
 	font-size: 16px;
 }
 
 p.andamento {
-	font-family: "Poppins SemiBold";
+	font-family: "Poppins Bold";
 	font-size: 16px;
 	text-align: center;
+}
+
+/*Tabelas*/
+
+table.tabela-num {
+	border-collapse:collapse;
+	border-spacing:0;
+	margin:0px auto;
+	font-size: 30px;
+}
+
+td.celulas {
+	text-align:center;
+	font-family: "Poppins Bold";
+	overflow:hidden;
+	padding: 8px;
 }
 
 /*Links*/
@@ -99,13 +109,10 @@ a {
 a.botoes {
 	font-size: 30px;
 	font-family: "Poppins Bold";
-	text-decoration: none;
 	padding: 8px;
 }
 
 a.botoesindice {
 	font-size: 30px;
 	font-family: "Poppins Bold";
-	text-decoration: none;
-	background-color: #f0f0f0;
 }
