@@ -9,7 +9,7 @@ O uso irresponsável do arquivo é de inteira responsabilidade de quem o possui.
 
 
 ## Atenção
-O Projeto ainda está em andamento
+**O Projeto ainda está em andamento**
 
 Para reportar qualquer erro nas letras, acesse o link: [bit.ly/3Sgq8pm](https://bit.ly/3Sgq8pm);
 
