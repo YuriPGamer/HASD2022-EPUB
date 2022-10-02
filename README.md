@@ -19,10 +19,10 @@ Para verificar a existência de novas versões, visite: [bit.ly/3C5mOYw](https:/
 
 **Para uma navegação mais fluida, é recomendado usar as configurações abaixo:**
 
-- Leitor recomendado: [Lithium](https://play.google.com/store/apps/details?id=com.faultexception.reader)
+- **Leitor recomendado:** [Lithium](https://play.google.com/store/apps/details?id=com.faultexception.reader)
 
-- Modo de leitura recomendado: Contínuo (Deslizar, Rolável, Scrolling... )
+- **Modo de leitura recomendado:** Contínuo (Deslizar, Rolável, Scrolling... )
 
-- Nível de Zoom: De acordo com o dispositivo
+- **Nível de Zoom:** De acordo com o dispositivo. A fim de comportar todos os elementos sem alterar o layout das páginas
 
 >O arquivo foi projetado e testado para funcionar em dispositivos Android, juntamente com o modo de leitura de rolar para baixo (contínuo). Por isso, pode não ser exibido corretamente em outras plataformas ou leitores que não possuem esse recurso.
