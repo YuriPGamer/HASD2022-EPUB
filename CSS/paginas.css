@@ -64,24 +64,26 @@ p.botoesindice {
 p.estrofe {
 	font-family: "Poppins SemiBold";
 	font-size: 20px;
-	margin-bottom: 30px;
+	margin-bottom: 45px;
 }
 
 p.atencao-titulo {
 	font-family: "Poppins Bold";
 	text-align: center;
-	font-size: 25px;
+	font-size: 30px;
+	margin-top: 20px;
+}
+
+p.atencao-subtitulo {
+	font-family: "Poppins Bold";
+	font-size: 16px;
+	text-align: center;
+	margin-bottom: 30px;
 }
 
 p.atencao {
 	font-family: "Poppins SemiBold";
 	font-size: 16px;
-}
-
-p.andamento {
-	font-family: "Poppins Bold";
-	font-size: 16px;
-	text-align: center;
 }
 
 /*Tabelas*/
