@@ -38,7 +38,7 @@ h2.numero_hino {
 	margin-top: 20px;
 }
 
-h3.titulo_hino {
+h3.titulo_hino,.notas {
 	text-align: center;
 	font-family: "Poppins Bold";
 	font-size: 30px;
@@ -48,14 +48,8 @@ h3.titulo_hino {
 
 /*Parágrafos*/
 
-p.botoes {
-	text-align: center;
-}
-
 p.botoesindice {
-	border-radius: 25px;
 	padding: 0.5em;
-	background-color: #f0f0f0;
 	page-break-inside: avoid;
 	text-align: center;
   	font-weight: bold;
@@ -109,16 +103,21 @@ td.celulas {
 	padding: 8px;
 }
 
+/*Div*/
+
+div.centralizar-div {
+	text-align: center;
+}
+
+div.estrofe-div {
+	display: inline-block;
+	text-align: left;
+}
+
 /*Links*/
 
 a {
 	text-decoration:none;
-}
-
-a.botoes {
-	font-size: 30px;
-	font-family: "Poppins Bold";
-	padding: 8px;
 }
 
 a.botoesindice {
