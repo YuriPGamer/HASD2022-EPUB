@@ -87,6 +87,14 @@ p.versao {
 	margin-top: 45px;
 }
 
+/*Div*/
+
+div.centralizar-div {
+	display: flex;
+	flex-flow: column wrap;
+	align-items: center;
+}
+
 /*Tabelas*/
 
 table.tabela-num {
@@ -101,17 +109,6 @@ td.celulas {
 	font-family: "Poppins Bold";
 	overflow:hidden;
 	padding: 8px;
-}
-
-/*Div*/
-
-div.centralizar-div {
-	text-align: center;
-}
-
-div.estrofe-div {
-	display: inline-block;
-	text-align: left;
 }
 
 /*Links*/
