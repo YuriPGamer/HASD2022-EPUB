@@ -27,6 +27,6 @@ Para verificar a existência de novas versões, visite: [bit.ly/3C5mOYw](https:/
 
 - **Nível de Zoom:** De acordo com o dispositivo. A fim de comportar todos os elementos sem alterar o layout das páginas.
 
-- **Observação:** Zoom em excesso quebra as páginas de navegação, por isso evite extrapolar 
+**Observação:** Zoom em excesso quebra as páginas de navegação, por isso evite extrapolar 
 
 >O arquivo foi projetado e testado para funcionar em dispositivos Android, juntamente com o modo de leitura de rolar para baixo (contínuo). Por isso, pode não ser exibido corretamente em outras plataformas ou leitores que não possuem esse recurso.
