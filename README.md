@@ -23,6 +23,8 @@ Para verificar a existência de novas versões, visite: [bit.ly/3C5mOYw](https:/
 
 - **Modo de leitura recomendado:** Contínuo (Deslizar, Rolável, Scrolling... )
 
+- **Tema recomendado:** Escuro
+
 - **Nível de Zoom:** De acordo com o dispositivo. A fim de comportar todos os elementos sem alterar o layout das páginas.
 
 - **Observação:** Zoom em excesso quebra as páginas de navegação, por isso evite extrapolar 
