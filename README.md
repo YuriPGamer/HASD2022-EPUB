@@ -8,8 +8,10 @@ Para outras finalidades deve-se recorrer aos produtos oficiais da Igreja.
 O uso irresponsável do arquivo é de inteira responsabilidade de quem o possui.
 
 
-## Atenção
+## Informações
 **O Projeto ainda está em andamento**
+
+Fonte de Dados: [Louvor JA](https://bit.ly/3hFnax1) (Letras)
 
 Para reportar qualquer erro nas letras, acesse o link: [bit.ly/3MzOGYr](https://bit.ly/3MzOGYr)
 
