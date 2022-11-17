@@ -40,4 +40,12 @@ Licença: [GPL-3.0 license](https://www.gnu.org/licenses/gpl-3.0.html)
 
 - **Nível de Zoom:** De acordo com o dispositivo. A fim de comportar todos os elementos sem alterar o layout das páginas.
 
-**Observação:** Zoom em excesso quebra as páginas de navegação, por isso evite extrapolar 
+**Observação:** Zoom em excesso quebra as páginas de navegação, por isso evite extrapolar
+
+## Download
+
+### [Página de Download (clique aqui)](https://github.com/YuriPGamer/HASD2022-EPUB/releases)
+
+- 1 - Localize a versão mais recente (Topo da lista)
+- 2 - Abra o menu "Assets" para vizualizar os arquivos
+- 3 - Basta selecionar o arquivo com extensão ".epub" para baixar
