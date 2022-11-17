@@ -12,7 +12,7 @@ O uso irresponsável do arquivo é de inteira responsabilidade de quem o possui.
 ## YouTube
 VÍDEO DE APRESENTAÇÃO
 
-![YT Cover](https://i9.ytimg.com/vi/aeKfe2F-O3o/mqdefault.jpg?v=63310d79&sqp=CJid1psG&rs=AOn4CLCQHmrme2J3BOP0bm6gWnDgD1-WXg)
+![YT Cover](https://i.imgur.com/6QIktYT.jpeg)
 
 [bit.ly/HASD22EPUB](https://bit.ly/HASD22EPUB)
 
