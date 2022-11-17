@@ -44,7 +44,7 @@ Licença: [GPL-3.0 license](https://www.gnu.org/licenses/gpl-3.0.html)
 
 ## Download
 
-### [Página de Download (clique aqui)](https://github.com/YuriPGamer/HASD2022-EPUB/releases)
+### [Página de Download (clique aqui)](https://bit.ly/3gcArN9)
 
 - 1 - Localize a versão mais recente (Topo da lista)
 - 2 - Abra o menu "Assets" para vizualizar os arquivos
