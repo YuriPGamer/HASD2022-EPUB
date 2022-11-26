@@ -127,6 +127,14 @@ a {
 	text-decoration:none;
 }
 
+a:link {
+	color: blue;
+}
+
+a:visited {
+	color: blue;
+  }
+
 a.botoesindice {
 	font-size: 30px;
 	font-family: "Poppins Bold";
