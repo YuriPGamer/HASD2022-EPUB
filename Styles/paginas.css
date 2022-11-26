@@ -21,10 +21,26 @@
 	src: url(../Assets/Poppins-Bold.ttf);
 }
 
+*/Tema Escuro/*
+
+:root {
+  --text: #000;
+  --bg: #fff;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --text: #fff;
+    --bg: #000;
+  }
+}
+
 /*Body*/
 
 body {
 	margin: 5%;
+	background-color: var(--bg);
+	color: var(--text);
 }
 
 /*Cabeçalhos*/
