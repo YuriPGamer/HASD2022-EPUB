@@ -26,7 +26,7 @@
 :root {
     --text: #000;
     --bg: #fff;
-    --lnkcolor: blue;
+    --lnkcolor: #173497;
 }
 
 @media (prefers-color-scheme: dark) {
