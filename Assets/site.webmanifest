@@ -1,6 +1,6 @@
 {
-    "name": "",
-    "short_name": "",
+    "name": "Hinário Adventista",
+    "short_name": "HASD",
     "icons": [
         {
             "src": "android-chrome-192x192.png",
@@ -13,7 +13,9 @@
             "type": "image/png"
         }
     ],
-    "theme_color": "#ffffff",
-    "background_color": "#ffffff",
-    "display": "standalone"
+    "theme_color": "#000000",
+    "background_color": "#000000",
+    "display": "standalone",
+    "orientation": "portrait",
+    "start_url": "../index.xhtml"
 }
