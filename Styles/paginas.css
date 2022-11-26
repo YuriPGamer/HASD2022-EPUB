@@ -21,6 +21,12 @@
 	src: url(../Assets/Poppins-Bold.ttf);
 }
 
+/*Body*/
+
+body {
+	margin: 5%;
+}
+
 /*Cabeçalhos*/
 
 h1.titulo {
