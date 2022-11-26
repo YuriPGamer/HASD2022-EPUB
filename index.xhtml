@@ -19,6 +19,17 @@
   <meta name="msapplication-config" content="Assets/browserconfig.xml"/>
   <meta name="theme-color" content="#ffffff"/>
   <meta name="google-site-verification" content="UiQMP9CkW6MgWTL-71gwe02TmLC3kfXCR0Q2gMpjDuw" />
+  <script>
+  if ('serviceWorker' in navigator) {
+    navigator.serviceWorker.register('Assets/sw.js')
+      .then(function () {
+        console.log('service worker registered');
+      })
+      .catch(function () {
+        console.warn('service worker failed');
+      });
+  }
+</script>
 </head>
 
 <body>
