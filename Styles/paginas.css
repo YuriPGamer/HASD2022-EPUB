@@ -24,14 +24,16 @@
 /*Tema Escuro*/
 
 :root {
-  --text: #000;
-  --bg: #fff;
+    --text: #000;
+    --bg: #fff;
+    --lnkcolor: blue;
 }
 
 @media (prefers-color-scheme: dark) {
   :root {
     --text: #fff;
-    --bg: #000;
+    --bg: #3b3b3b;
+    --lnkcolor: #f0de69;
   }
 }
 
@@ -144,11 +146,11 @@ a {
 }
 
 a:link {
-	color: blue;
+	color: var(--lnkcolor);
 }
 
 a:visited {
-	color: blue;
+	color: var(--lnkcolor);
   }
 
 a.botoesindice {
