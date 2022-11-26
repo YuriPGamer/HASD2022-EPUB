@@ -6,9 +6,18 @@ self.addEventListener('install', function (event) {
       return cache.addAll([
         '/',
         '/index.html',
-        '/Assets/',
-        '/Letras/',
-        '/Styles/',
+        '/Assets/Poppins-Bold.ttf,
+        '/Assets/Poppins-Medium.ttf,
+        '/Assets/Poppins-SemiBold.ttf,
+        '/Assets/manifest.json,
+        '/Letras/001-100.xhtml',
+        '/Letras/101-200.xhtml',
+        '/Letras/201-300.xhtml',
+        '/Letras/301-400.xhtml',
+        '/Letras/401-500.xhtml',
+        '/Letras/501-600.xhtml',
+        '/Letras/h333.xhtml',
+        '/Styles/paginas.css',
       ]);
     })
   )
