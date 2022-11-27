@@ -6,7 +6,7 @@
     "background_color": "#000000",
     "display": "standalone",
     "scope": "/",
-    "start_url": "https://yuripgamer.github.io/HASD2022-EPUB/",
+    "start_url": "index.xhtml",
     "lang": "pt-BR",
     "orientation": "portrait",
     "icons": [
@@ -24,27 +24,27 @@
     "shortcuts" : [
         {
           "name": "001-100",
-          "url": "/Letras/001-100.xhtml"
+          "url": "Letras/001-100.xhtml"
         },
         {
           "name": "101-200",
-          "url": "/Letras/101-200.xhtml"
+          "url": "Letras/101-200.xhtml"
         },
         {
           "name": "201-300",
-          "url": "/Letras/201-300.xhtml"
+          "url": "Letras/201-300.xhtml"
         },
         {
           "name": "301-400",
-          "url": "/Letras/301-400.xhtml"
+          "url": "Letras/301-400.xhtml"
         },
         {
           "name": "401-500",
-          "url": "/Letras/401-500.xhtml"
+          "url": "Letras/401-500.xhtml"
         },
         {
           "name": "501-600",
-          "url": "/Letras/501-600.xhtml"
+          "url": "Letras/501-600.xhtml"
         }
     ],
     "screenshots" : [
