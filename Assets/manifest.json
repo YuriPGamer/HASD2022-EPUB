@@ -9,6 +9,10 @@
     "start_url": "../",
     "lang": "pt-BR",
     "orientation": "portrait",
+    "categories": [
+        "books",
+        "music"
+    ],
     "icons": [
         {
             "src": "android-chrome-192x192.png",
@@ -21,23 +25,33 @@
             "type": "image/png"
         },
         {
+            "purpose": "maskable",
             "src": "android-chrome-192x192-01.png",
             "sizes": "192x192",
             "type": "image/png"
         },
         {
+            "purpose": "maskable",
             "src": "android-chrome-512x512-01.png",
             "sizes": "512x512",
             "type": "image/png"
         }
     ],
     "screenshots" : [
-       {
-          "src": "lnk-cover.jpeg",
-          "sizes": "1280x719",
-          "type": "image/jpeg",
-          "platform": "wide",
-          "label": "Cover App"
-       }
+        {
+            "src": "scr01.png",
+            "sizes": "1157x2048",
+            "type": "image/png"
+        },
+        {
+            "src": "scr02.png",
+            "sizes": "1157x2048",
+            "type": "image/png"
+        },
+        {
+            "src": "scr03.png",
+            "sizes": "1156x2048",
+            "type": "image/png"
+        }
     ]
 }
