@@ -6,7 +6,7 @@
     "background_color": "#000000",
     "display": "standalone",
     "scope": "/",
-    "start_url": "/",
+    "start_url": "https://yuripgamer.github.io/HASD2022-EPUB/",
     "lang": "pt-BR",
     "orientation": "portrait",
     "icons": [
