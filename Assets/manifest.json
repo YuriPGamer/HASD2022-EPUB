@@ -2,8 +2,8 @@
     "name": "HASD",
     "short_name": "HASD",
     "description": "Adaptação não oficial dos 600 hinos contidos no Hinário Adventista (Edição 2022) para Edições Digitais",
-    "theme_color": "#000000",
-    "background_color": "#000000",
+    "theme_color": "#000",
+    "background_color": "#000",
     "display": "minimal-ui",
     "scope": "../",
     "start_url": "../",
@@ -39,17 +39,17 @@
     ],
     "screenshots" : [
         {
-            "src": "scr01.png",
+            "src": "https://imgur.com/UXI3dm8.png",
             "sizes": "1080x2088",
             "type": "image/png"
         },
         {
-            "src": "scr02.png",
+            "src": "https://imgur.com/GmGz4E8.png",
             "sizes": "1080x2088",
             "type": "image/png"
         },
         {
-            "src": "scr03.png",
+            "src": "https://imgur.com/XPYQ1sN.png",
             "sizes": "1080x2088",
             "type": "image/png"
         }
