@@ -21,9 +21,14 @@
             "type": "image/png"
         },
         {
-            "src": "android-chrome-hd-hi.svg",
-            "sizes": "any",
-            "type": "image/svg"
+            "src": "android-chrome-192x192-01.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "android-chrome-512x512-01.png",
+            "sizes": "512x512",
+            "type": "image/png"
         }
     ],
     "screenshots" : [
