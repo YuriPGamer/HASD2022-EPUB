@@ -1,6 +1,14 @@
 {
     "name": "HASD",
     "short_name": "HASD",
+    "description": "Adaptação não oficial dos 600 hinos contidos no Hinário Adventista (Edição 2022) para Edições Digitais",
+    "theme_color": "#000000",
+    "background_color": "#000000",
+    "display": "standalone",
+    "scope": "/",
+    "start_url": "/?utm_source=homescreen",
+    "lang": "pt-BR",
+    "orientation": "portrait",
     "icons": [
         {
             "src": "android-chrome-192x192.png",
@@ -13,9 +21,39 @@
             "type": "image/png"
         }
     ],
-    "theme_color": "#000000",
-    "background_color": "#000000",
-    "display": "standalone",
-    "orientation": "portrait",
-    "start_url": "../index.xhtml"
+    "shortcuts" : [
+        {
+          "name": "001-100",
+          "url": "/Letras/001-100.xhtml"
+        },
+        {
+          "name": "101-200",
+          "url": "/Letras/101-200.xhtml"
+        },
+        {
+          "name": "201-300",
+          "url": "/Letras/201-300.xhtml"
+        },
+        {
+          "name": "301-400",
+          "url": "/Letras/301-400.xhtml"
+        },
+        {
+          "name": "401-500",
+          "url": "/Letras/401-500.xhtml"
+        },
+        {
+          "name": "501-600",
+          "url": "/Letras/501-600.xhtml"
+        }
+    ],
+    "screenshots" : [
+       {
+          "src": "/Assets/lnk-cover.jpeg",
+          "sizes": "1280x719",
+          "type": "image/jpeg",
+          "platform": "wide",
+          "label": "Cover App"
+       }
+    ]
 }
