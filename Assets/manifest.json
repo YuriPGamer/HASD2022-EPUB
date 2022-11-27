@@ -4,7 +4,7 @@
     "description": "Adaptação não oficial dos 600 hinos contidos no Hinário Adventista (Edição 2022) para Edições Digitais",
     "theme_color": "#000000",
     "background_color": "#000000",
-    "display": "standalone",
+    "display": "minimal-ui",
     "scope": "../",
     "start_url": "../",
     "lang": "pt-BR",
