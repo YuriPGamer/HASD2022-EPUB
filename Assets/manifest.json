@@ -6,7 +6,7 @@
     "background_color": "#000000",
     "display": "standalone",
     "scope": "/",
-    "start_url": "/?utm_source=homescreen",
+    "start_url": "/",
     "lang": "pt-BR",
     "orientation": "portrait",
     "icons": [
