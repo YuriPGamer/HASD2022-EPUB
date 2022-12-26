@@ -19,6 +19,11 @@
   <link rel="manifest" href="Assets/manifest.json"/>
   <link rel="mask-icon" href="Assets/safari-pinned-tab.svg" color="#5bbad5"/>
   <link rel="shortcut icon" href="Assets/favicon.ico"/>
+  <script>
+  if (typeof navigator.serviceWorker !== 'undefined') {
+    navigator.serviceWorker.register('sw.js')
+  }
+  </script>
 </head>
 
 <body>
